@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "seecadi@localhost",
+            "database": "seecadi",
+            "username": "seecadi",
+            "password": ""
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "dev",
+            "username": "dev",
+            "name": "test",
+            "password": ""
+        }
+    ]
+}
